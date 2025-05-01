@@ -1,0 +1,4 @@
+github.com/jurgen-kluft/go-esp32-control v0.0.2 h1:0iy2E9cobI6776qmyhzJapWYHjxG54V9BXLzZzrBogw=
+github.com/jurgen-kluft/go-esp32-control v0.0.2/go.mod h1:sbbU2lqieKA6gpQMhvJJQ/J4XuSZXAZ6kTUHiUKfeX0=
+github.com/jurgen-kluft/go-utils v0.0.1 h1:FQl+Lb4QseQKtA+lPhUtJg00wq+aNiNxR8FVD9IOEaY=
+github.com/jurgen-kluft/go-utils v0.0.1/go.mod h1:MEi362H+n3PyCzxxfA+12mEBkJPCsjAyiwE/tT30wMY=
